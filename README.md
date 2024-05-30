@@ -1,16 +1,15 @@
-## Hi there 👋
+# Carlos Guzman
 
-<!--
-**CarlosDGuzmanV/CarlosDGuzmanV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería de Sistemas, sin experiencia laboral, con habilidades
+para el manejo de equipos de cómputo, manejo de Office (Word, Excel, Power
+Point etc). Buena disposición para trabajar en equipo, responsable, respetuoso y
+con facilidad de aprendizaje, deseo trabajar en Colombia por el momento.**
 
-Here are some ideas to get you started:
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=CarlosDGuzmanV&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ##  Estatus de este repositorio
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosDGuzmanV&theme=dark)](https://github.com/CarlosDGuzmanV/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDGuzmanV&langs_count=8&theme=dark)](https://github.com/CarlosDGuzmanV)
+
+
